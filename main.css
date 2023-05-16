@@ -1,19 +1,7 @@
-h1{
-    text-align: right;
+.question-container{
+    background-color: rgb(79, 81, 83);
+    margin
 }
-body{
-background-color: blueviolet;
-
-}
-img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
-container h2{
-    text-align: right;
-
-}
-p{
-    text-align: right;
+box{
+    align-items:;
 }
